@@ -1,0 +1,13 @@
+.hero {
+    background: url('images/living-room.jpg') center/cover no-repeat;
+    height: 90vh;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+footer {
+    background: #f8f9fa;
+}
